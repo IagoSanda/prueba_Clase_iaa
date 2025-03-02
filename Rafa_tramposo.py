@@ -1,1 +1,0 @@
-print("Eres un tramposo :)")
